@@ -1,0 +1,11 @@
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+D:\GitAngular\WebAPILoginAuthenticate\WebApiDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
